@@ -5,4 +5,6 @@ Rescoring methods for end-to-end Automatic Speech Recognition. The python script
 * Run speech recognition on a given WAV file and get the list of transcription candidates
 * Score a list of phrases (rescoring) with a language model (e.g. the fine-tuned GPT2)
 
-See the Medium article for more details
+See the Medium article for more details:
+
+https://medium.com/@diegofustesfic/asr-rescoring-with-fine-tuned-gpt-70f7f6323565
